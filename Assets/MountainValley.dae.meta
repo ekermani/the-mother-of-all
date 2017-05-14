@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 637ba23520b13451d95acaeb09293c92
+timeCreated: 1493829157
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group1_1
+    100002: Group1_1 1
+    100004: Group1_1 10
+    100006: Group1_1 11
+    100008: Group1_1 12
+    100010: Group1_1 13
+    100012: Group1_1 14
+    100014: Group1_1 15
+    100016: Group1_1 16
+    100018: Group1_1 17
+    100020: Group1_1 18
+    100022: Group1_1 19
+    100024: Group1_1 2
+    100026: Group1_1 20
+    100028: Group1_1 21
+    100030: Group1_1 22
+    100032: Group1_1 23
+    100034: Group1_1 24
+    100036: Group1_1 25
+    100038: Group1_1 26
+    100040: Group1_1 27
+    100042: Group1_1 28
+    100044: Group1_1 29
+    100046: Group1_1 3
+    100048: Group1_1 30
+    100050: Group1_1 31
+    100052: Group1_1 32
+    100054: Group1_1 4
+    100056: Group1_1 5
+    100058: Group1_1 6
+    100060: Group1_1 7
+    100062: Group1_1 8
+    100064: Group1_1 9
+    100066: instance_0
+    100068: instance_1
+    100070: instance_10
+    100072: instance_11
+    100074: instance_12
+    100076: instance_13
+    100078: instance_14
+    100080: instance_15
+    100082: instance_16
+    100084: instance_17
+    100086: instance_18
+    100088: instance_19
+    100090: instance_2
+    100092: instance_20
+    100094: instance_21
+    100096: instance_22
+    100098: instance_23
+    100100: instance_24
+    100102: instance_25
+    100104: instance_26
+    100106: instance_27
+    100108: instance_28
+    100110: instance_29
+    100112: instance_3
+    100114: instance_30
+    100116: instance_31
+    100118: instance_32
+    100120: instance_4
+    100122: instance_5
+    100124: instance_6
+    100126: instance_7
+    100128: instance_8
+    100130: instance_9
+    100132: //RootNode
+    100134: skp_camera_Last_Saved_SketchUp_View
+    100136: skp_camera_Scene_1
+    100138: skp_camera_Scene_10
+    100140: skp_camera_Scene_11
+    100142: skp_camera_Scene_12
+    100144: skp_camera_Scene_13
+    100146: skp_camera_Scene_14
+    100148: skp_camera_Scene_15
+    100150: skp_camera_Scene_16
+    100152: skp_camera_Scene_17
+    100154: skp_camera_Scene_18
+    100156: skp_camera_Scene_19
+    100158: skp_camera_Scene_2
+    100160: skp_camera_Scene_20
+    100162: skp_camera_Scene_21
+    100164: skp_camera_Scene_22
+    100166: skp_camera_Scene_23
+    100168: skp_camera_Scene_24
+    100170: skp_camera_Scene_25
+    100172: skp_camera_Scene_26
+    100174: skp_camera_Scene_27
+    100176: skp_camera_Scene_28
+    100178: skp_camera_Scene_29
+    100180: skp_camera_Scene_3
+    100182: skp_camera_Scene_30
+    100184: skp_camera_Scene_31
+    100186: skp_camera_Scene_32
+    100188: skp_camera_Scene_33
+    100190: skp_camera_Scene_34
+    100192: skp_camera_Scene_35
+    100194: skp_camera_Scene_36
+    100196: skp_camera_Scene_37
+    100198: skp_camera_Scene_38
+    100200: skp_camera_Scene_39
+    100202: skp_camera_Scene_4
+    100204: skp_camera_Scene_40
+    100206: skp_camera_Scene_41
+    100208: skp_camera_Scene_42
+    100210: skp_camera_Scene_43
+    100212: skp_camera_Scene_44
+    100214: skp_camera_Scene_45
+    100216: skp_camera_Scene_46
+    100218: skp_camera_Scene_47
+    100220: skp_camera_Scene_48
+    100222: skp_camera_Scene_49
+    100224: skp_camera_Scene_5
+    100226: skp_camera_Scene_50
+    100228: skp_camera_Scene_51
+    100230: skp_camera_Scene_52
+    100232: skp_camera_Scene_53
+    100234: skp_camera_Scene_54
+    100236: skp_camera_Scene_55
+    100238: skp_camera_Scene_56
+    100240: skp_camera_Scene_57
+    100242: skp_camera_Scene_58
+    100244: skp_camera_Scene_59
+    100246: skp_camera_Scene_6
+    100248: skp_camera_Scene_60
+    100250: skp_camera_Scene_61
+    100252: skp_camera_Scene_62
+    100254: skp_camera_Scene_63
+    100256: skp_camera_Scene_64
+    100258: skp_camera_Scene_65
+    100260: skp_camera_Scene_66
+    100262: skp_camera_Scene_67
+    100264: skp_camera_Scene_68
+    100266: skp_camera_Scene_69
+    100268: skp_camera_Scene_7
+    100270: skp_camera_Scene_70
+    100272: skp_camera_Scene_8
+    100274: skp_camera_Scene_9
+    400000: Group1_1
+    400002: Group1_1 1
+    400004: Group1_1 10
+    400006: Group1_1 11
+    400008: Group1_1 12
+    400010: Group1_1 13
+    400012: Group1_1 14
+    400014: Group1_1 15
+    400016: Group1_1 16
+    400018: Group1_1 17
+    400020: Group1_1 18
+    400022: Group1_1 19
+    400024: Group1_1 2
+    400026: Group1_1 20
+    400028: Group1_1 21
+    400030: Group1_1 22
+    400032: Group1_1 23
+    400034: Group1_1 24
+    400036: Group1_1 25
+    400038: Group1_1 26
+    400040: Group1_1 27
+    400042: Group1_1 28
+    400044: Group1_1 29
+    400046: Group1_1 3
+    400048: Group1_1 30
+    400050: Group1_1 31
+    400052: Group1_1 32
+    400054: Group1_1 4
+    400056: Group1_1 5
+    400058: Group1_1 6
+    400060: Group1_1 7
+    400062: Group1_1 8
+    400064: Group1_1 9
+    400066: instance_0
+    400068: instance_1
+    400070: instance_10
+    400072: instance_11
+    400074: instance_12
+    400076: instance_13
+    400078: instance_14
+    400080: instance_15
+    400082: instance_16
+    400084: instance_17
+    400086: instance_18
+    400088: instance_19
+    400090: instance_2
+    400092: instance_20
+    400094: instance_21
+    400096: instance_22
+    400098: instance_23
+    400100: instance_24
+    400102: instance_25
+    400104: instance_26
+    400106: instance_27
+    400108: instance_28
+    400110: instance_29
+    400112: instance_3
+    400114: instance_30
+    400116: instance_31
+    400118: instance_32
+    400120: instance_4
+    400122: instance_5
+    400124: instance_6
+    400126: instance_7
+    400128: instance_8
+    400130: instance_9
+    400132: //RootNode
+    400134: skp_camera_Last_Saved_SketchUp_View
+    400136: skp_camera_Scene_1
+    400138: skp_camera_Scene_10
+    400140: skp_camera_Scene_11
+    400142: skp_camera_Scene_12
+    400144: skp_camera_Scene_13
+    400146: skp_camera_Scene_14
+    400148: skp_camera_Scene_15
+    400150: skp_camera_Scene_16
+    400152: skp_camera_Scene_17
+    400154: skp_camera_Scene_18
+    400156: skp_camera_Scene_19
+    400158: skp_camera_Scene_2
+    400160: skp_camera_Scene_20
+    400162: skp_camera_Scene_21
+    400164: skp_camera_Scene_22
+    400166: skp_camera_Scene_23
+    400168: skp_camera_Scene_24
+    400170: skp_camera_Scene_25
+    400172: skp_camera_Scene_26
+    400174: skp_camera_Scene_27
+    400176: skp_camera_Scene_28
+    400178: skp_camera_Scene_29
+    400180: skp_camera_Scene_3
+    400182: skp_camera_Scene_30
+    400184: skp_camera_Scene_31
+    400186: skp_camera_Scene_32
+    400188: skp_camera_Scene_33
+    400190: skp_camera_Scene_34
+    400192: skp_camera_Scene_35
+    400194: skp_camera_Scene_36
+    400196: skp_camera_Scene_37
+    400198: skp_camera_Scene_38
+    400200: skp_camera_Scene_39
+    400202: skp_camera_Scene_4
+    400204: skp_camera_Scene_40
+    400206: skp_camera_Scene_41
+    400208: skp_camera_Scene_42
+    400210: skp_camera_Scene_43
+    400212: skp_camera_Scene_44
+    400214: skp_camera_Scene_45
+    400216: skp_camera_Scene_46
+    400218: skp_camera_Scene_47
+    400220: skp_camera_Scene_48
+    400222: skp_camera_Scene_49
+    400224: skp_camera_Scene_5
+    400226: skp_camera_Scene_50
+    400228: skp_camera_Scene_51
+    400230: skp_camera_Scene_52
+    400232: skp_camera_Scene_53
+    400234: skp_camera_Scene_54
+    400236: skp_camera_Scene_55
+    400238: skp_camera_Scene_56
+    400240: skp_camera_Scene_57
+    400242: skp_camera_Scene_58
+    400244: skp_camera_Scene_59
+    400246: skp_camera_Scene_6
+    400248: skp_camera_Scene_60
+    400250: skp_camera_Scene_61
+    400252: skp_camera_Scene_62
+    400254: skp_camera_Scene_63
+    400256: skp_camera_Scene_64
+    400258: skp_camera_Scene_65
+    400260: skp_camera_Scene_66
+    400262: skp_camera_Scene_67
+    400264: skp_camera_Scene_68
+    400266: skp_camera_Scene_69
+    400268: skp_camera_Scene_7
+    400270: skp_camera_Scene_70
+    400272: skp_camera_Scene_8
+    400274: skp_camera_Scene_9
+    2300000: Group1_1
+    2300002: Group1_1 1
+    2300004: Group1_1 10
+    2300006: Group1_1 11
+    2300008: Group1_1 12
+    2300010: Group1_1 13
+    2300012: Group1_1 14
+    2300014: Group1_1 15
+    2300016: Group1_1 16
+    2300018: Group1_1 17
+    2300020: Group1_1 18
+    2300022: Group1_1 19
+    2300024: Group1_1 2
+    2300026: Group1_1 20
+    2300028: Group1_1 21
+    2300030: Group1_1 22
+    2300032: Group1_1 23
+    2300034: Group1_1 24
+    2300036: Group1_1 25
+    2300038: Group1_1 26
+    2300040: Group1_1 27
+    2300042: Group1_1 28
+    2300044: Group1_1 29
+    2300046: Group1_1 3
+    2300048: Group1_1 30
+    2300050: Group1_1 31
+    2300052: Group1_1 32
+    2300054: Group1_1 4
+    2300056: Group1_1 5
+    2300058: Group1_1 6
+    2300060: Group1_1 7
+    2300062: Group1_1 8
+    2300064: Group1_1 9
+    3300000: Group1_1
+    3300002: Group1_1 1
+    3300004: Group1_1 10
+    3300006: Group1_1 11
+    3300008: Group1_1 12
+    3300010: Group1_1 13
+    3300012: Group1_1 14
+    3300014: Group1_1 15
+    3300016: Group1_1 16
+    3300018: Group1_1 17
+    3300020: Group1_1 18
+    3300022: Group1_1 19
+    3300024: Group1_1 2
+    3300026: Group1_1 20
+    3300028: Group1_1 21
+    3300030: Group1_1 22
+    3300032: Group1_1 23
+    3300034: Group1_1 24
+    3300036: Group1_1 25
+    3300038: Group1_1 26
+    3300040: Group1_1 27
+    3300042: Group1_1 28
+    3300044: Group1_1 29
+    3300046: Group1_1 3
+    3300048: Group1_1 30
+    3300050: Group1_1 31
+    3300052: Group1_1 32
+    3300054: Group1_1 4
+    3300056: Group1_1 5
+    3300058: Group1_1 6
+    3300060: Group1_1 7
+    3300062: Group1_1 8
+    3300064: Group1_1 9
+    4300000: Group1_1
+    4300002: Group1_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

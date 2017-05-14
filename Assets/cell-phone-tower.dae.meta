@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 631280ed35251426db01ab26b23e0110
+timeCreated: 1492640724
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cellStation
+    100004: cellStation 1
+    100006: cellStation 2
+    100008: cellStation 3
+    100010: cellStation 4
+    100012: cellStation 5
+    100014: cellStation_1
+    100016: cellStation_1 1
+    100018: cellStation_1 2
+    100020: Component_1
+    100022: Component_1 1
+    100024: Component_1 2
+    100026: group_0
+    100028: group_0 1
+    100030: group_0 2
+    100032: group_1
+    100034: group_1 1
+    100036: group_1 2
+    100038: group_1 3
+    100040: group_1 4
+    100042: group_1 5
+    100044: Group_18
+    100046: Group_18 1
+    100048: Group_18 10
+    100050: Group_18 11
+    100052: Group_18 12
+    100054: Group_18 13
+    100056: Group_18 14
+    100058: Group_18 15
+    100060: Group_18 16
+    100062: Group_18 17
+    100064: Group_18 2
+    100066: Group_18 3
+    100068: Group_18 4
+    100070: Group_18 5
+    100072: Group_18 6
+    100074: Group_18 7
+    100076: Group_18 8
+    100078: Group_18 9
+    100080: Group_2
+    100082: group_2
+    100084: group_2 1
+    100086: group_2 2
+    100088: group_2 3
+    100090: group_2 4
+    100092: group_2 5
+    100094: group_3
+    100096: group_3 1
+    100098: group_3 10
+    100100: group_3 11
+    100102: group_3 12
+    100104: group_3 13
+    100106: group_3 14
+    100108: group_3 15
+    100110: group_3 16
+    100112: group_3 17
+    100114: group_3 2
+    100116: group_3 3
+    100118: group_3 4
+    100120: group_3 5
+    100122: group_3 6
+    100124: group_3 7
+    100126: group_3 8
+    100128: group_3 9
+    100130: group_4
+    100132: group_4 1
+    100134: group_4 2
+    100136: group_5
+    100138: group_5 1
+    100140: group_5 2
+    100142: group_6
+    100144: group_7
+    100146: group_8
+    100148: group_9
+    100150: ID1000
+    100152: ID1004
+    100154: ID1008
+    100156: ID1012
+    100158: ID1016
+    100160: ID1020
+    100162: ID1024
+    100164: ID1028
+    100166: ID1032
+    100168: ID1036
+    100170: ID1040
+    100172: ID1044
+    100174: ID1048
+    100176: ID116
+    100178: ID124
+    100180: ID132
+    100182: ID140
+    100184: ID148
+    100186: ID156
+    100188: ID164
+    100190: ID172
+    100192: ID180
+    100194: ID188
+    100196: ID196
+    100198: ID204
+    100200: ID210
+    100202: ID214
+    100204: ID218
+    100206: ID222
+    100208: ID226
+    100210: ID230
+    100212: ID234
+    100214: ID247
+    100216: ID255
+    100218: ID263
+    100220: ID271
+    100222: ID279
+    100224: ID287
+    100226: ID295
+    100228: ID303
+    100230: ID311
+    100232: ID319
+    100234: ID327
+    100236: ID335
+    100238: ID339
+    100240: ID343
+    100242: ID347
+    100244: ID351
+    100246: ID355
+    100248: ID359
+    100250: ID363
+    100252: ID376
+    100254: ID384
+    100256: ID392
+    100258: ID400
+    100260: ID408
+    100262: ID416
+    100264: ID424
+    100266: ID432
+    100268: ID440
+    100270: ID448
+    100272: ID456
+    100274: ID464
+    100276: ID468
+    100278: ID472
+    100280: ID476
+    100282: ID480
+    100284: ID484
+    100286: ID488
+    100288: ID492
+    100290: ID505
+    100292: ID513
+    100294: ID521
+    100296: ID529
+    100298: ID537
+    100300: ID545
+    100302: ID553
+    100304: ID561
+    100306: ID569
+    100308: ID577
+    100310: ID585
+    100312: ID593
+    100314: ID597
+    100316: ID601
+    100318: ID605
+    100320: ID609
+    100322: ID613
+    100324: ID617
+    100326: ID621
+    100328: ID632
+    100330: ID636
+    100332: ID640
+    100334: ID644
+    100336: ID648
+    100338: ID652
+    100340: ID656
+    100342: ID660
+    100344: ID664
+    100346: ID668
+    100348: ID672
+    100350: ID676
+    100352: ID680
+    100354: ID684
+    100356: ID688
+    100358: ID692
+    100360: ID696
+    100362: ID700
+    100364: ID704
+    100366: ID708
+    100368: ID712
+    100370: ID716
+    100372: ID720
+    100374: ID724
+    100376: ID728
+    100378: ID732
+    100380: ID736
+    100382: ID740
+    100384: ID744
+    100386: ID748
+    100388: ID752
+    100390: ID756
+    100392: ID760
+    100394: ID764
+    100396: ID768
+    100398: ID772
+    100400: ID776
+    100402: ID780
+    100404: ID784
+    100406: ID788
+    100408: ID792
+    100410: ID796
+    100412: ID800
+    100414: ID804
+    100416: ID808
+    100418: ID812
+    100420: ID816
+    100422: ID820
+    100424: ID824
+    100426: ID828
+    100428: ID832
+    100430: ID836
+    100432: ID840
+    100434: ID844
+    100436: ID848
+    100438: ID852
+    100440: ID856
+    100442: ID860
+    100444: ID864
+    100446: ID868
+    100448: ID872
+    100450: ID876
+    100452: ID880
+    100454: ID884
+    100456: ID888
+    100458: ID892
+    100460: ID896
+    100462: ID900
+    100464: ID904
+    100466: ID908
+    100468: ID912
+    100470: ID916
+    100472: ID920
+    100474: ID924
+    100476: ID928
+    100478: ID932
+    100480: ID936
+    100482: ID940
+    100484: ID944
+    100486: ID948
+    100488: ID952
+    100490: ID956
+    100492: ID960
+    100494: ID964
+    100496: ID968
+    100498: ID972
+    100500: ID976
+    100502: ID980
+    100504: ID984
+    100506: ID988
+    100508: ID992
+    100510: ID996
+    100512: instance_0
+    100514: instance_1
+    100516: instance_1 1
+    100518: instance_1 2
+    100520: instance_10
+    100522: instance_2
+    100524: instance_2 1
+    100526: instance_2 2
+    100528: instance_2 3
+    100530: instance_2 4
+    100532: instance_2 5
+    100534: instance_3
+    100536: instance_3 1
+    100538: instance_3 2
+    100540: instance_3 3
+    100542: instance_3 4
+    100544: instance_3 5
+    100546: instance_4
+    100548: instance_4 1
+    100550: instance_4 2
+    100552: instance_5
+    100554: instance_5 1
+    100556: instance_5 2
+    100558: instance_6
+    100560: instance_6 1
+    100562: instance_6 2
+    100564: instance_7
+    100566: instance_7 1
+    100568: instance_7 2
+    100570: instance_8
+    100572: instance_9
+    100574: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: cellStation
+    400004: cellStation 1
+    400006: cellStation 2
+    400008: cellStation 3
+    400010: cellStation 4
+    400012: cellStation 5
+    400014: cellStation_1
+    400016: cellStation_1 1
+    400018: cellStation_1 2
+    400020: Component_1
+    400022: Component_1 1
+    400024: Component_1 2
+    400026: group_0
+    400028: group_0 1
+    400030: group_0 2
+    400032: group_1
+    400034: group_1 1
+    400036: group_1 2
+    400038: group_1 3
+    400040: group_1 4
+    400042: group_1 5
+    400044: Group_18
+    400046: Group_18 1
+    400048: Group_18 10
+    400050: Group_18 11
+    400052: Group_18 12
+    400054: Group_18 13
+    400056: Group_18 14
+    400058: Group_18 15
+    400060: Group_18 16
+    400062: Group_18 17
+    400064: Group_18 2
+    400066: Group_18 3
+    400068: Group_18 4
+    400070: Group_18 5
+    400072: Group_18 6
+    400074: Group_18 7
+    400076: Group_18 8
+    400078: Group_18 9
+    400080: Group_2
+    400082: group_2
+    400084: group_2 1
+    400086: group_2 2
+    400088: group_2 3
+    400090: group_2 4
+    400092: group_2 5
+    400094: group_3
+    400096: group_3 1
+    400098: group_3 10
+    400100: group_3 11
+    400102: group_3 12
+    400104: group_3 13
+    400106: group_3 14
+    400108: group_3 15
+    400110: group_3 16
+    400112: group_3 17
+    400114: group_3 2
+    400116: group_3 3
+    400118: group_3 4
+    400120: group_3 5
+    400122: group_3 6
+    400124: group_3 7
+    400126: group_3 8
+    400128: group_3 9
+    400130: group_4
+    400132: group_4 1
+    400134: group_4 2
+    400136: group_5
+    400138: group_5 1
+    400140: group_5 2
+    400142: group_6
+    400144: group_7
+    400146: group_8
+    400148: group_9
+    400150: ID1000
+    400152: ID1004
+    400154: ID1008
+    400156: ID1012
+    400158: ID1016
+    400160: ID1020
+    400162: ID1024
+    400164: ID1028
+    400166: ID1032
+    400168: ID1036
+    400170: ID1040
+    400172: ID1044
+    400174: ID1048
+    400176: ID116
+    400178: ID124
+    400180: ID132
+    400182: ID140
+    400184: ID148
+    400186: ID156
+    400188: ID164
+    400190: ID172
+    400192: ID180
+    400194: ID188
+    400196: ID196
+    400198: ID204
+    400200: ID210
+    400202: ID214
+    400204: ID218
+    400206: ID222
+    400208: ID226
+    400210: ID230
+    400212: ID234
+    400214: ID247
+    400216: ID255
+    400218: ID263
+    400220: ID271
+    400222: ID279
+    400224: ID287
+    400226: ID295
+    400228: ID303
+    400230: ID311
+    400232: ID319
+    400234: ID327
+    400236: ID335
+    400238: ID339
+    400240: ID343
+    400242: ID347
+    400244: ID351
+    400246: ID355
+    400248: ID359
+    400250: ID363
+    400252: ID376
+    400254: ID384
+    400256: ID392
+    400258: ID400
+    400260: ID408
+    400262: ID416
+    400264: ID424
+    400266: ID432
+    400268: ID440
+    400270: ID448
+    400272: ID456
+    400274: ID464
+    400276: ID468
+    400278: ID472
+    400280: ID476
+    400282: ID480
+    400284: ID484
+    400286: ID488
+    400288: ID492
+    400290: ID505
+    400292: ID513
+    400294: ID521
+    400296: ID529
+    400298: ID537
+    400300: ID545
+    400302: ID553
+    400304: ID561
+    400306: ID569
+    400308: ID577
+    400310: ID585
+    400312: ID593
+    400314: ID597
+    400316: ID601
+    400318: ID605
+    400320: ID609
+    400322: ID613
+    400324: ID617
+    400326: ID621
+    400328: ID632
+    400330: ID636
+    400332: ID640
+    400334: ID644
+    400336: ID648
+    400338: ID652
+    400340: ID656
+    400342: ID660
+    400344: ID664
+    400346: ID668
+    400348: ID672
+    400350: ID676
+    400352: ID680
+    400354: ID684
+    400356: ID688
+    400358: ID692
+    400360: ID696
+    400362: ID700
+    400364: ID704
+    400366: ID708
+    400368: ID712
+    400370: ID716
+    400372: ID720
+    400374: ID724
+    400376: ID728
+    400378: ID732
+    400380: ID736
+    400382: ID740
+    400384: ID744
+    400386: ID748
+    400388: ID752
+    400390: ID756
+    400392: ID760
+    400394: ID764
+    400396: ID768
+    400398: ID772
+    400400: ID776
+    400402: ID780
+    400404: ID784
+    400406: ID788
+    400408: ID792
+    400410: ID796
+    400412: ID800
+    400414: ID804
+    400416: ID808
+    400418: ID812
+    400420: ID816
+    400422: ID820
+    400424: ID824
+    400426: ID828
+    400428: ID832
+    400430: ID836
+    400432: ID840
+    400434: ID844
+    400436: ID848
+    400438: ID852
+    400440: ID856
+    400442: ID860
+    400444: ID864
+    400446: ID868
+    400448: ID872
+    400450: ID876
+    400452: ID880
+    400454: ID884
+    400456: ID888
+    400458: ID892
+    400460: ID896
+    400462: ID900
+    400464: ID904
+    400466: ID908
+    400468: ID912
+    400470: ID916
+    400472: ID920
+    400474: ID924
+    400476: ID928
+    400478: ID932
+    400480: ID936
+    400482: ID940
+    400484: ID944
+    400486: ID948
+    400488: ID952
+    400490: ID956
+    400492: ID960
+    400494: ID964
+    400496: ID968
+    400498: ID972
+    400500: ID976
+    400502: ID980
+    400504: ID984
+    400506: ID988
+    400508: ID992
+    400510: ID996
+    400512: instance_0
+    400514: instance_1
+    400516: instance_1 1
+    400518: instance_1 2
+    400520: instance_10
+    400522: instance_2
+    400524: instance_2 1
+    400526: instance_2 2
+    400528: instance_2 3
+    400530: instance_2 4
+    400532: instance_2 5
+    400534: instance_3
+    400536: instance_3 1
+    400538: instance_3 2
+    400540: instance_3 3
+    400542: instance_3 4
+    400544: instance_3 5
+    400546: instance_4
+    400548: instance_4 1
+    400550: instance_4 2
+    400552: instance_5
+    400554: instance_5 1
+    400556: instance_5 2
+    400558: instance_6
+    400560: instance_6 1
+    400562: instance_6 2
+    400564: instance_7
+    400566: instance_7 1
+    400568: instance_7 2
+    400570: instance_8
+    400572: instance_9
+    400574: skp_camera_Last_Saved_SketchUp_View
+    2300000: group_0
+    2300002: group_0 1
+    2300004: group_0 2
+    2300006: group_1
+    2300008: group_1 1
+    2300010: group_1 2
+    2300012: group_1 3
+    2300014: group_1 4
+    2300016: group_1 5
+    2300018: Group_18
+    2300020: Group_18 1
+    2300022: Group_18 10
+    2300024: Group_18 11
+    2300026: Group_18 12
+    2300028: Group_18 13
+    2300030: Group_18 14
+    2300032: Group_18 15
+    2300034: Group_18 16
+    2300036: Group_18 17
+    2300038: Group_18 2
+    2300040: Group_18 3
+    2300042: Group_18 4
+    2300044: Group_18 5
+    2300046: Group_18 6
+    2300048: Group_18 7
+    2300050: Group_18 8
+    2300052: Group_18 9
+    2300054: group_2
+    2300056: group_2 1
+    2300058: group_2 2
+    2300060: group_2 3
+    2300062: group_2 4
+    2300064: group_2 5
+    2300066: group_3
+    2300068: group_3 1
+    2300070: group_3 10
+    2300072: group_3 11
+    2300074: group_3 12
+    2300076: group_3 13
+    2300078: group_3 14
+    2300080: group_3 15
+    2300082: group_3 16
+    2300084: group_3 17
+    2300086: group_3 2
+    2300088: group_3 3
+    2300090: group_3 4
+    2300092: group_3 5
+    2300094: group_3 6
+    2300096: group_3 7
+    2300098: group_3 8
+    2300100: group_3 9
+    2300102: group_4
+    2300104: group_4 1
+    2300106: group_4 2
+    2300108: group_5
+    2300110: group_5 1
+    2300112: group_5 2
+    2300114: group_6
+    2300116: group_7
+    2300118: group_8
+    2300120: group_9
+    2300122: ID116
+    2300124: ID124
+    2300126: ID132
+    2300128: ID140
+    2300130: ID148
+    2300132: ID156
+    2300134: ID164
+    2300136: ID172
+    2300138: ID180
+    2300140: ID188
+    2300142: ID196
+    2300144: ID247
+    2300146: ID255
+    2300148: ID263
+    2300150: ID271
+    2300152: ID279
+    2300154: ID287
+    2300156: ID295
+    2300158: ID303
+    2300160: ID311
+    2300162: ID319
+    2300164: ID327
+    2300166: ID376
+    2300168: ID384
+    2300170: ID392
+    2300172: ID400
+    2300174: ID408
+    2300176: ID416
+    2300178: ID424
+    2300180: ID432
+    2300182: ID440
+    2300184: ID448
+    2300186: ID456
+    2300188: ID505
+    2300190: ID513
+    2300192: ID521
+    2300194: ID529
+    2300196: ID537
+    2300198: ID545
+    2300200: ID553
+    2300202: ID561
+    2300204: ID569
+    2300206: ID577
+    2300208: ID585
+    3300000: group_0
+    3300002: group_0 1
+    3300004: group_0 2
+    3300006: group_1
+    3300008: group_1 1
+    3300010: group_1 2
+    3300012: group_1 3
+    3300014: group_1 4
+    3300016: group_1 5
+    3300018: Group_18
+    3300020: Group_18 1
+    3300022: Group_18 10
+    3300024: Group_18 11
+    3300026: Group_18 12
+    3300028: Group_18 13
+    3300030: Group_18 14
+    3300032: Group_18 15
+    3300034: Group_18 16
+    3300036: Group_18 17
+    3300038: Group_18 2
+    3300040: Group_18 3
+    3300042: Group_18 4
+    3300044: Group_18 5
+    3300046: Group_18 6
+    3300048: Group_18 7
+    3300050: Group_18 8
+    3300052: Group_18 9
+    3300054: group_2
+    3300056: group_2 1
+    3300058: group_2 2
+    3300060: group_2 3
+    3300062: group_2 4
+    3300064: group_2 5
+    3300066: group_3
+    3300068: group_3 1
+    3300070: group_3 10
+    3300072: group_3 11
+    3300074: group_3 12
+    3300076: group_3 13
+    3300078: group_3 14
+    3300080: group_3 15
+    3300082: group_3 16
+    3300084: group_3 17
+    3300086: group_3 2
+    3300088: group_3 3
+    3300090: group_3 4
+    3300092: group_3 5
+    3300094: group_3 6
+    3300096: group_3 7
+    3300098: group_3 8
+    3300100: group_3 9
+    3300102: group_4
+    3300104: group_4 1
+    3300106: group_4 2
+    3300108: group_5
+    3300110: group_5 1
+    3300112: group_5 2
+    3300114: group_6
+    3300116: group_7
+    3300118: group_8
+    3300120: group_9
+    3300122: ID116
+    3300124: ID124
+    3300126: ID132
+    3300128: ID140
+    3300130: ID148
+    3300132: ID156
+    3300134: ID164
+    3300136: ID172
+    3300138: ID180
+    3300140: ID188
+    3300142: ID196
+    3300144: ID247
+    3300146: ID255
+    3300148: ID263
+    3300150: ID271
+    3300152: ID279
+    3300154: ID287
+    3300156: ID295
+    3300158: ID303
+    3300160: ID311
+    3300162: ID319
+    3300164: ID327
+    3300166: ID376
+    3300168: ID384
+    3300170: ID392
+    3300172: ID400
+    3300174: ID408
+    3300176: ID416
+    3300178: ID424
+    3300180: ID432
+    3300182: ID440
+    3300184: ID448
+    3300186: ID456
+    3300188: ID505
+    3300190: ID513
+    3300192: ID521
+    3300194: ID529
+    3300196: ID537
+    3300198: ID545
+    3300200: ID553
+    3300202: ID561
+    3300204: ID569
+    3300206: ID577
+    3300208: ID585
+    4300000: group_0
+    4300002: group_1
+    4300004: group_2
+    4300006: Group_18
+    4300008: group_3
+    4300010: group_4
+    4300012: group_5
+    4300014: group_6
+    4300016: ID116
+    4300018: ID124
+    4300020: ID132
+    4300022: ID140
+    4300024: ID148
+    4300026: ID156
+    4300028: ID164
+    4300030: ID172
+    4300032: ID180
+    4300034: ID188
+    4300036: ID196
+    4300038: group_7
+    4300040: ID247
+    4300042: ID255
+    4300044: ID263
+    4300046: ID271
+    4300048: ID279
+    4300050: ID287
+    4300052: ID295
+    4300054: ID303
+    4300056: ID311
+    4300058: ID319
+    4300060: ID327
+    4300062: group_8
+    4300064: ID376
+    4300066: ID384
+    4300068: ID392
+    4300070: ID400
+    4300072: ID408
+    4300074: ID416
+    4300076: ID424
+    4300078: ID432
+    4300080: ID440
+    4300082: ID448
+    4300084: ID456
+    4300086: group_9
+    4300088: ID505
+    4300090: ID513
+    4300092: ID521
+    4300094: ID529
+    4300096: ID537
+    4300098: ID545
+    4300100: ID553
+    4300102: ID561
+    4300104: ID569
+    4300106: ID577
+    4300108: ID585
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
